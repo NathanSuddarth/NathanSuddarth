@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm **Nathan**
 
-<!--
-**NathanSuddarth/NathanSuddarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Incoming 9th grade at the Center for Leadership, Government and Global Economics  
+### 💻 Beginner Developer | Learning About AI applications and machine learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+I'm a beginner coder excited to grow my skills and build real projects. Right now, I'm focusing on learning the fundamentals of Deep Learning in LLM's and CV Artificial Intelligents, and I'm working on improving my problem‑solving abilities through small apps, challenges, and experiments.
+
+I’m passionate about:
+- Understanding how code works behind the scenes  
+- Building simple but meaningful projects  
+- Learning new tools and technologies as I grow  
+
+---
+
+## 🔧 Subjects I'm Learning
+- The workings of AI and how they get trained with terabytes of data
+---
+
+## 📈 Goals for This Year
+- Strengthen my foundation in both languages  
+- Build and publish my first full project  
+- Learn Git and GitHub best practices  
+- Keep improving through consistent practice  
+
+---
+
+## 📫 Connect With Me
+Feel free to check out my repositories and follow my progress as I learn and grow as a developer!
+Gmail: king.puffin1@gmail.com 
