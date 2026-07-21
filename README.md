@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Nathan**
 
-### 🎓 Incoming 9th grade at the Center for Leadership, Government and Global Economics  
+### 🎓 Incoming 9th grade at the Center for Leadership, Government and Global Economics at Douglas Southall Freeman High School
 ### 💻 Beginner Developer | Learning About AI applications and machine learning
 
 ---
