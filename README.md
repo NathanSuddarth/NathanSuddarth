@@ -6,7 +6,7 @@
 ---
 
 ## 🌱 About Me
-I'm a beginner coder excited to grow my skills and build real projects. Right now, I'm focusing on learning the fundamentals of Deep Learning in LLM's and CV Artificial Intelligents, and I'm working on improving my problem‑solving abilities through small apps, challenges, and experiments.
+I'm a beginner coder excited to grow my skills and build real projects. Right now, I'm focusing on learning the fundamentals of Deep Learning in LLM's and CV Artificial Intelligences, and I'm working on improving my problem‑solving abilities through small apps, challenges, and experiments.
 
 I’m passionate about:
 - Understanding how code works behind the scenes  
